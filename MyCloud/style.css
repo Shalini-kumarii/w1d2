@@ -1,0 +1,19 @@
+.purple{
+    background-color:purple;
+    color:white;
+    text-align: center;
+}
+.skyblue{
+    background-color:skyblue;
+    color:black;
+    text-align: right;
+    text-decoration: underline;
+}
+h1{
+    background-color: black;
+
+    color:white;
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+}
