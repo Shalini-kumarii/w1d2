@@ -1,0 +1,29 @@
+
+
+.button1 {
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid turquoise;
+    height: 20px;
+    width: 200px;
+}
+.button2{
+    border-radius: 50%;
+    background-color:turquoise;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid white;
+    color: white
+   
+}
+.button3 {
+    background-color:blue;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 1px solid black;
+    height: 30px;
+    width: 200px;
+    box-shadow: 10px 5px 5px black;
+}
